@@ -1,4 +1,9 @@
-# Build first blog
+---
+layout: post
+title:  "Build first blog!"
+date:   2017-05-12
+categories: jekyll update
+---
 1. create a new repository with name username.github.io, follow ([github_pages])
 2. install dependencies
   1.  install ruby  
